@@ -1,0 +1,43 @@
+@media screen and (max-width: 640px) { 
+.container{ width: 440px; }
+
+.col1 , .col2{
+	float: none;
+	padding: 0px;
+}
+.content{
+	height:681px;
+}
+
+.left, .right{
+	position: absolute;
+	width: 378px;
+
+}
+
+	.block1{
+	height: 100px;
+	top: 60px;
+	
+}
+   .block2{		
+	top: 159px;
+}
+    .block3{
+	top: 217px;
+	
+}
+    .block4{	
+	top: 336px;
+}
+    .block5{
+    top: 495px;
+	
+}
+    .block6{	
+	top: 574px;
+}
+    .block7{	
+	top: 673px;
+}
+}
